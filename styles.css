@@ -12,5 +12,7 @@ border-bottom: solid 2px white;
 } 
 
 section{
-background: #0b181a;;
+background: #0b181a;
+padding-bottom: 80px;
+padding-top: 80px;
 }
